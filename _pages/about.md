@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Kevin Tan"
-excerpt: "Kevin Tan"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
