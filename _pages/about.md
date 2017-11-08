@@ -11,12 +11,12 @@ I am a research associate in the [Social Cognitive Neuroscience Lab](http://www.
 
 Research Interests
 ------
-Broadly, I am interested in the [default-mode network](https://en.wikipedia.org/wiki/Default_mode_network) **(DMN)** and the social, affective, and spontaneous processes it subserves. 
+Broadly, I am interested in the [default-mode network](https://en.wikipedia.org/wiki/Default_mode_network) (**DMN**) and the social, affective, and spontaneous processes it subserves. 
 
 ### Overarching role(s) of the DMN
 What cognitive and computational properties tie together the disparate functions that recruit DMN? Does DMN play overarching role(s) in cognition and brain function?
 
-### Interactions between the DMN and other brain regions**
+### Interactions between the DMN and other brain regions
 What are the spatiotemporal dynamics of DMN and other brain regions during social and affective processing? What are the feedforward, feedback, and recurrent computations that comprise such processing? Which brain regions are involved in each?
 
 ### DMN at rest
