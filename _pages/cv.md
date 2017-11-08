@@ -7,7 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+# [Download CV](https://kevmtan.github.io/files/KevinTan_CV_171107.pdf)
+
+<object data="https://kevmtan.github.io/files/KevinTan_CV_171107.pdf" type="application/pdf" style="width:100%; height:100%"></object>
+
+<!-- {% include base_path %}
 
 Education
 ======
@@ -57,3 +61,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+ -->

@@ -80,9 +80,9 @@ analytics:
 author:
   #name             :
   avatar           : "profile_720.jpg"
-  bio              : "Investigating social, affective & spontaneous cognition vis-à-vis the default-mode network"
-  location         : "UCLA"
-  employer         : "Social Cognitive Neuroscience Lab"
+  bio              : "Social neuroscience researcher at UCLA"
+  location         : "Los Angeles"
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=1kC4VtgAAAAJ"
   email            : "kevmtan@ucla.edu"
   uri              : "http://www.scn.ucla.edu/people/tan.html"
