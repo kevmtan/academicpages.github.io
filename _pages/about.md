@@ -10,7 +10,7 @@ redirect_from:
 I am a research associate in the [Social Cognitive Neuroscience Lab](http://www.scn.ucla.edu) at UCLA. Previously, I have worked in the labs of [Michael Tarr](http://tarrlab.org) and [Greg Siegle](http://www.wpic.pitt.edu/research/pican/). 
 
 ## Research Interests
-Broadly, I am interested in the [default-mode network (DMN)](https://en.wikipedia.org/wiki/Default_mode_network) and the social, affective, and spontaneous processes it subserves. 
+Broadly, I am interested in the [default-mode network](https://en.wikipedia.org/wiki/Default_mode_network) **(DMN)** and the social, affective, and spontaneous processes it subserves. 
 
 ### Overarching role(s) of the DMN
 What cognitive and computational properties tie together the disparate functions that recruit DMN? Does DMN play overarching role(s) in cognition and brain function?
