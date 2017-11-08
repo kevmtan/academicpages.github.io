@@ -80,9 +80,9 @@ analytics:
 author:
   #name             :
   avatar           : "profile_720.jpg"
-  bio              : "Investigating social, affective, and spontaneous cognition vis-à-vis the human default mode network"
-  location         : "Los Angeles"
-  employer         : "UCLA - Social Cognitive Neuroscience Lab"
+  bio              : "Investigating social, affective & spontaneous cognition vis-à-vis the default-mode network"
+  location         : "UCLA"
+  employer         : "Social Cognitive Neuroscience Lab"
   googlescholar    : "https://scholar.google.com/citations?user=1kC4VtgAAAAJ"
   email            : "kevmtan@ucla.edu"
   uri              : "http://www.scn.ucla.edu/people/tan.html"
@@ -109,7 +109,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "https://en.wikipedia.org/wiki/User:Chilledsunshine"
+  wikipedia        : "Chilledsunshine"
 
 
 # Reading Files
