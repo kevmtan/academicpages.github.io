@@ -20,7 +20,7 @@ What cognitive and computational properties tie together the disparate functions
 What are the spatiotemporal dynamics of DMN and other brain regions during social and affective processing? What are the feedforward, feedback, and recurrent computations that comprise such processing? Which brain regions are involved in each?
 
 ### DMN at rest
-Why is DMN so active during rest, what is it really doing? How does DMN activity differ across states of consciousness (e.g. mindwandering versus dreaming)? Can DMN activity at rest predict the performance of DMN-mediated tasks? Specifically, can pre-stimulus DMN activity bias subsequent socioaffective inferences (e.g. threat judgments)? 
+Why is DMN so active during rest, what is it really doing? Can DMN activity at rest predict the performance of DMN-mediated tasks? Specifically, can pre-stimulus DMN activity bias subsequent socioaffective inferences (e.g. threat judgments)? 
 
 Methods
 ------
