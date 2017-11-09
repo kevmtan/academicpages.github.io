@@ -17,13 +17,13 @@ Broadly, I am interested in the [default-mode network](https://en.wikipedia.org/
 Why does DMN underlie such a vast and disparate array of functions? What cognitive and computational properties tie these functions together? Does DMN play overarching role(s) in cognition and brain function?
 
 ### Spatiotemporal dynamics of social & affective processing
-How do DMN and non-DMN brain regions work together to create social and emotional experiences? What are the feedforward, feedback, and recurrent computations that comprise such processes, and what brain regions are involved in each?
+How do DMN and non-DMN brain regions work together to create social and emotional experiences? What are the feedforward, feedback, and recurrent computations that comprise such processes?
 
 ### DMN at rest
-Why is DMN so active during rest, what is it really doing? What are the interrelations between resting and goal-oriented DMN activity? Can DMN activity at rest modulate the performance of DMN-related tasks? For example, can pre-stimulus DMN activity bias perceptions of threat, trustworthiness, and intelligence?
+Why is DMN so active during rest, what is it really doing? Can DMN activity at rest modulate the performance of DMN-related tasks? For example, can pre-stimulus DMN activity bias perceptions of threat, trustworthiness, and intelligence?
 
 ### Broader Impacts
-The social and affective processes subserved by DMN are implicated in long-entrenched societal issues such as prejudice, social polarization, and mental illness. DMN-related research contributes to the understanding of such issues, and ulimately aids in the development of interventions to mitigate them. For example, techniques such as decoded neurofeedback may be able to identify and deactivate neural patterns that are associated with socio-affective biases.
+DMN-related processes are implicated in entrenched societal issues such as prejudice, social polarization, and mental illness. DMN-related research may aid in understanding and mitigating such issues. For example, neural patterns associated with implicit biases may be identified and deactivated through [decoded neurofeedback](https://en.wikipedia.org/wiki/Decoded_neurofeedback). 
 
 Methods
 ------
