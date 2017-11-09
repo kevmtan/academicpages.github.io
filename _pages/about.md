@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title:
 excerpt: "Kevin Tan"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a research associate in the [Social Cognitive Neuroscience Lab](http://www.scn.ucla.edu) at UCLA. Previously, I have worked in the labs of [Michael Tarr](http://tarrlab.org) and [Greg Siegle](http://www.wpic.pitt.edu/research/pican/).
+I am a research associate in the [Social Cognitive Neuroscience Lab](http://www.scn.ucla.edu) at UCLA. Previously, I have worked in the labs of [Michael Tarr](http://tarrlab.org) and [Greg Siegle](http://www.wpic.pitt.edu/research/pican/). In my free time, I'm involved in Los Angeles's [underground dance music scene](https://www.kcet.org/shows/real-scenes/episodes/los-angeles).
 
 Research Interests
 ------
