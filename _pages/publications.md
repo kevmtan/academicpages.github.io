@@ -6,10 +6,9 @@ author_profile: true
 
 ## Conference Presentations
 
-* **K.M. Tan**, M.J. Tarr. (2016, April). *Valence-related visual encoding is dependent on valence strength prior to frontal affective processing*. Social and Affective Neuroscience Society, New York City, USA. 
-**Download:** [[Poster PDF]](https://kevmtan.github.io/files/KevinTan_SANS2016_ObjectValence.pdf)
+* **K.M. Tan**, M.J. Tarr. (2016, April). *Valence-related visual encoding is dependent on valence strength prior to frontal affective processing*. Social and Affective Neuroscience Society, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/KevinTan_SANS2016_ObjectValence.pdf)
 
-* **K.M. Tan**, G.J. Siegle. (2014, May). *Toward a pathophysiology of rumination: dorsal nexus resting-state functional connectivity in depression before and after serotonergic or behavioral interventions*. Meeting of the Minds conference, Carnegie Mellon University, USA. **Download:** [[Poster PDF]](https://kevmtan.github.io/files/Kevin_DN_MeetingoftheMinds_Poster.pdf)
+* **K.M. Tan**, G.J. Siegle. (2014, May). *Toward a pathophysiology of rumination: dorsal nexus resting-state functional connectivity in depression before and after serotonergic or behavioral interventions*. Meeting of the Minds conference, Carnegie Mellon University, USA. [[Poster PDF]](https://kevmtan.github.io/files/Kevin_DN_MeetingoftheMinds_Poster.pdf)
 
 ## Working Manuscripts
 
