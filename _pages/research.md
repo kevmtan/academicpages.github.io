@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive-taxonomy
 title: "Research"
 permalink: /research/
 author_profile: true
