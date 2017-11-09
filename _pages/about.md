@@ -14,13 +14,16 @@ Research Interests
 Broadly, I am interested in the [default-mode network](https://en.wikipedia.org/wiki/Default_mode_network) (**DMN**) and the social, affective, and spontaneous processes it subserves. 
 
 ### Overarching role(s) of the DMN
-Why does DMN underlie such a disparate array of functions – what cognitive and computational properties tie them together? Does DMN play overarching role(s) in cognition and brain function?
+Why does DMN underlie such a vast and disparate array of functions? What cognitive and computational properties tie these functions together? Does DMN play overarching role(s) in cognition and brain function?
 
 ### Spatiotemporal dynamics of social & affective processing
-How do brain regions within and outside of the DMN interact with each other during social and affective processing? What are the feedforward, feedback, and recurrent computations that comprise such processing?
+How do DMN and non-DMN brain regions work together to create social and emotional experiences? What are the feedforward, feedback, and recurrent computations that comprise such processes, and what brain regions are involved in each?
 
 ### DMN at rest
-Why is DMN so active during rest, what is it really doing? Can DMN activity at rest predict the performance of DMN-related tasks? For example, can pre-stimulus DMN activity bias subsequent socioaffective inferences (e.g. perceptions of trust, threat, anger)? 
+Why is DMN so active during rest, what is it really doing? What are the interrelations between resting and goal-oriented DMN activity? Can DMN activity at rest modulate the performance of DMN-related tasks? For example, can pre-stimulus DMN activity bias perceptions of threat, trustworthiness, and intelligence?
+
+### Broader Impacts
+The social and affective processes subserved by DMN are implicated in long-entrenched societal issues such as prejudice, social polarization, and mental illness. DMN-related research contributes to the understanding of such issues, and ulimately aids in the development of interventions to mitigate them. For example, techniques such as decoded neurofeedback may be able to identify and deactivate neural patterns that are associated with socio-affective biases.
 
 Methods
 ------
