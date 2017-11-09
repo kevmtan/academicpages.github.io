@@ -5,6 +5,8 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+#minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Kevin Tan"
@@ -80,7 +82,7 @@ analytics:
 author:
   name             : "Kevin Tan"
   avatar           : "profile_720.jpg"
-  bio              : "Social and affective neuroscience at UCLA"
+  bio              : "Exploring social & affective neuroscience at UCLA"
   location         : "Los Angeles"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=1kC4VtgAAAAJ"
