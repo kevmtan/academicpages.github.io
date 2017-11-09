@@ -5,6 +5,9 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+   - title: "Code"
+    url: "https://github.com/kevmtan"
     
   - title: "CV"
     url: "https://kevmtan.github.io/files/KevinTan_CV_171107.pdf"
