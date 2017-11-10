@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title:
 excerpt: "Kevin Tan"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 <img style="display:block; margin-left: auto; margin-right: auto" src='/images/WhyHow50_white.png'>
+
+Welcome!
 
 I am a research associate in the [Social Cognitive Neuroscience Lab](http://www.scn.ucla.edu) at UCLA, where I investigate the neural underpinnings of social cognition, affect, and their interactions. Previously, I have worked in the labs of [Michael Tarr](http://tarrlab.org) and [Greg Siegle](http://www.wpic.pitt.edu/research/pican/). 
 
