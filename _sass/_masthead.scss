@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative;
-  background: url('/images/psyheader.jpg');
+  background: url('/images/psyheader_black.jpg');
   background-size: cover;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
@@ -34,7 +34,6 @@
 }
 
 .masthead__menu {
-  opacity: 0.95;
 
   ul {
     margin: 0;
