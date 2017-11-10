@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img style="display:block; margin-left: auto; margin-right: auto" src='/images/WhyHow50_white.png'>
+<img style="display:block; margin-left: auto; margin-right: auto" title="These are the two main brain networks that underlie social cognition. The Default-Mode Network is shown in warm colors, while the Mirror Neuron System is shown in cool colors" src='/images/WhyHow50_white.png'>
 
 Welcome!
 
