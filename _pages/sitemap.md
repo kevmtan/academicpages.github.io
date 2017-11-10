@@ -3,6 +3,7 @@ title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
 ---
+May not be updated. Check navigation bar for all pages.
 
 * [About Me](/about/)
 * [Research](/research/)
