@@ -22,6 +22,6 @@ Methods
 ------
 To explore my research interests, I use [fMRI](https://en.wikipedia.org/wiki/Functional_magnetic_resonance_imaging), [fNIRS](https://en.wikipedia.org/wiki/Functional_near-infrared_spectroscopy), and [EEG](https://en.wikipedia.org/wiki/Electroencephalography) in conjunction with advanced techniques in signal processing, statistics, and machine learning.
 
-I am particularly keen on using decoded neurofeedback to manipulate social and affective processes. I am also interested in using causal modeling to elucidate the causal architecture of social and affective processes.
+I am particularly keen on using decoded neurofeedback to manipulate social and affective processes. I am also interested in using causal modeling, especially on M/EEG data, to elucidate the spatiotemporal causal architecture of social and affective processes.
 
-Code I've written for the above methods can be found on my [Github](https://github.com/kevmtan).
+Code I've written for some of the above methods can be found on my [Github](https://github.com/kevmtan).

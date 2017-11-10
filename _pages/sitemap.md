@@ -1,11 +1,14 @@
 ---
-layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
 ---
 
-Under Construction
+* [About Me](/about/)
+* [Research](/research/)
+* [Publications](/publications/)
+* [Code](https://github.com/kevmtan)
+* [CV](https://kevmtan.github.io/files/KevinTan_CV.pdf)
 
 <!-- {% include base_path %}
 
