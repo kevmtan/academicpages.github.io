@@ -4,7 +4,7 @@
 
 .masthead {
   position: relative;
-  background: url('/images/psyheader_black.jpg');
+  background: url('/images/psyheader.jpg');
   background-size: cover;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
@@ -34,8 +34,13 @@
 }
 
 .masthead__menu {
+<<<<<<< HEAD
   
   opacity: 0;
+=======
+  opacity: 0.95;
+
+>>>>>>> parent of e294a09... black masthead theme
   ul {
     margin: 0;
     padding: 0;
