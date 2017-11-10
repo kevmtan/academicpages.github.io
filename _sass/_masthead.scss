@@ -4,6 +4,8 @@
 
 .masthead {
   position: relative;
+  background: url('/images/psyglitch.jpg');
+  background-size: cover;
   border-bottom: 1px solid $border-color;
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
@@ -34,6 +36,7 @@
 .masthead__menu {
 
   ul {
+    opacity: .9;
     margin: 0;
     padding: 0;
     clear: both;
