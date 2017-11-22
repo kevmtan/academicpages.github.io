@@ -12,7 +12,7 @@ author_profile: true
 
 ## Working Manuscripts
 
-* **K.M. Tan**, L.J. Burklund, M.D. Lieberman, M.G. Craske. (in prep). Neural responses to emotional faces during social inference predict symptom severity and treatment outcomes in PTSD.
+* **K.M. Tan**, L.J. Burklund, M.D. Lieberman, M.G. Craske. (in prep). PTSD and the social brain: affect disrupts default network and mirror neuron activity during social inference.
 
 * **K.M. Tan**, M.J. Tarr. (in prep). Bottom-up or top-down? The spatiotemporal dynamics of affective object perception differ across valence strength.
 
