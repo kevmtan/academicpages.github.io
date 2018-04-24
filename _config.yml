@@ -9,7 +9,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kevin M. Tan"
+title                    : "Kevin Alastair M. Tan"
 title_separator          : "-"
 name                     : &name "Kevin Tan"
 description              : &description "PhD Student at UCLA"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             :
+  name             : "Kevin Tan"
   avatar           : "profile_720.jpg"
   bio              : "Exploring the neural bases of our social & emotional worlds"
   location         :
