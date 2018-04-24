@@ -6,6 +6,8 @@ author_profile: true
 
 ## Conference Presentations
 
+* **K.M. Tan**, L.J. Burklund, M.G. Craske, M.D. Lieberman. (2016, May). *PTSD and the social brain: affect-related disruption of the default and mirror networks*. Social and Affective Neuroscience Society, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/Tan_PTSD_SANS2018.pdf)
+
 * **K.M. Tan**, M.J. Tarr. (2016, April). *Valence-related visual encoding is dependent on valence strength prior to frontal affective processing*. Social and Affective Neuroscience Society, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/KevinTan_SANS2016_ObjectValence.pdf)
 
 * **K.M. Tan**, G.J. Siegle, T. Kraynak. (2014, May). *Toward a pathophysiology of rumination: dorsal nexus resting-state functional connectivity in depression before and after serotonergic or behavioral interventions*. Meeting of the Minds conference, Carnegie Mellon University, USA. [[Poster PDF]](https://kevmtan.github.io/files/Kevin_DN_MeetingoftheMinds_Poster.pdf)
