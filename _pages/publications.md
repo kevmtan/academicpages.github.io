@@ -6,7 +6,7 @@ author_profile: true
 
 ## Conference Presentations
 
-* **K.M. Tan**, L.J. Burklund, M.G. Craske, M.D. Lieberman. (2016, May). *PTSD and the social brain: affect-related disruption of the default and mirror networks*. Social and Affective Neuroscience Society, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/Tan_PTSD_SANS2018.pdf)
+* **K.M. Tan**, L.J. Burklund, M.G. Craske, M.D. Lieberman. (2018, May). *PTSD and the social brain: affect-related disruption of the default and mirror networks*. Social and Affective Neuroscience Society, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/Tan_PTSD_SANS2018.pdf)
 
 * **K.M. Tan**, M.J. Tarr. (2016, April). *Valence-related visual encoding is dependent on valence strength prior to frontal affective processing*. Social and Affective Neuroscience Society, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/KevinTan_SANS2016_ObjectValence.pdf)
 
@@ -14,7 +14,7 @@ author_profile: true
 
 ## Working Manuscripts
 
-* **K.M. Tan**, L.J. Burklund, M.G. Craske, M.D. Lieberman. (in prep). PTSD and the social brain: affect disrupts default network and mirror neuron activity during social inference.
+* **K.M. Tan**, L.J. Burklund, M.G. Craske, M.D. Lieberman. (in prep). PTSD and the social brain: affect-related disruption of the default and mirror networks during social inference
 
 * **K.M. Tan**, M.J. Tarr. (in prep). Bottom-up or top-down? The spatiotemporal dynamics of affective object perception differ across valence strength.
 
