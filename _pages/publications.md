@@ -3,6 +3,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Peer-reviewed Publications
+* M.D. Lieberman, M.A. Straccia, M.L. Meyer, M. Du, **K.M. Tan**. (in production). Social, Self, (Situational), and Affective Processes in Medial Prefrontal Cortex (MPFC): Causal, Multivariate, and Reverse Inference. *Neuroscience & Biobehavioral Reviews.* 2018 Dec 18.
 
 ## Conference Presentations
 
@@ -14,15 +16,15 @@ author_profile: true
 
 ## Working Manuscripts
 
+* M. Moieni, **K.M. Tan**, T.K. Inagaki, K.A. Muscatell, J.M. Dutcher, Ivana Jevtic, E.C. Breen, M.R. Irwin, N.I. Eisenberger. (under review). Sex differences in the relationship between inflammation and reward sensitivity: A randomized controlled trial of endotoxin. *Biological Psychiatry*
+
 * **K.M. Tan**, L.J. Burklund, M.G. Craske, M.D. Lieberman. (in prep). PTSD and the social brain: affect-related disruption of the default and mirror networks during social inference
 
 * **K.M. Tan**, M.J. Tarr. (in prep). Bottom-up or top-down? The spatiotemporal dynamics of affective object perception differ across valence strength.
 
-* M.D. Lieberman, M.A. Straccia, M.L. Meyer, M. Du, **K.M. Tan**. (under review). Social, self, situational, and affective processes in medial prefrontal cortex. *Psychological Inquiry*.
-
-* M. Moieni, **K.M. Tan**, J.M. Dutcher, K.A. Muscatell, T.K. Inagaki, N.I. Eisenberger. (in prep). Exposure to an inflammatory challenge attenuates reward network reactivity to expected rewards.
-
 * B.A. Tabak, P. Katzman, **K.M. Tan**, M.A. Straccia, M. Parrish, C. Leshak, M.D. Lieberman. (in prep). Effects of oxytocin and vasopressin on the neural circuitry of social cognition.
+
+* **K.M. Tan**, A.L. Daitch, K.C.R. Fox, Josef Parvizi, M.D. Lieberman. (in early prep). Mentalizing about the self and others: a human intracranial electrophysiology study. 
 
 
 <!-- {% if author.googlescholar %}
