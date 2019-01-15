@@ -20,7 +20,7 @@ DMN-related processes are implicated in entrenched societal issues such as preju
 
 Methods
 ------
-To explore my research interests, I use [ECoG](https://en.wikipedia.org/wiki/Electrocorticography), source-space [EEG](https://en.wikipedia.org/wiki/Electroenecephalography), and [fMRI](https://en.wikipedia.org/wiki/fMRI) in conjunction with advanced techniques in signal processing, statistics, and machine learning.
+To explore my research interests, I use [ECoG](https://en.wikipedia.org/wiki/Electrocorticography), source-space [EEG](https://en.wikipedia.org/wiki/Electroencephalography), and [fMRI](https://en.wikipedia.org/wiki/fMRI) in conjunction with advanced techniques in signal processing, statistics, and machine learning.
 
 I am particularly keen on using decoded neurofeedback to manipulate social and affective processes. I am also interested in using causal modeling, especially on ECoG and source-space M/EEG data, to characterize causality and information flow during social cognitive and affective computations. 
 
