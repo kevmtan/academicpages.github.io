@@ -9,7 +9,7 @@ May not be updated. Check navigation bar for all pages.
 * [Research](/research/)
 * [Publications](/publications/)
 * [Code](https://github.com/kevmtan)
-* [CV](https://kevmtan.github.io/files/KevinTan_CV_180423.pdf)
+* [CV](https://kevmtan.github.io/files/KevinTan_CV_190130.pdf)
 
 <!-- {% include base_path %}
 

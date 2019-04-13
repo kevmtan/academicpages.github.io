@@ -3,28 +3,33 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+* **NOTE:** my [Google Scholar profile](https://scholar.google.com/citations?user=1kC4VtgAAAAJ) could have a more recent list of publications
+
 ## Peer-reviewed Publications
-* M.D. Lieberman, M.A. Straccia, M.L. Meyer, M. Du, **K.M. Tan**. (in production). Social, Self, (Situational), and Affective Processes in Medial Prefrontal Cortex (MPFC): Causal, Multivariate, and Reverse Inference. *Neuroscience & Biobehavioral Reviews.* 2018 Dec 18.
+* Moieni, M., **Tan, K.M.**, Inagaki, T.K., Muscatell, K.A., Dutcher, J.M., Jevtic, I., … Eisenberger, N.I. (2019). Sex differences in the relationship between inflammation and reward sensitivity: A randomized controlled trial of endotoxin. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 0(0). https://doi.org/10.1016/j.bpsc.2019.03.010 [[PDF]](https://kevmtan.github.io/files/[2019] Moieni et al. - Sex differences in inflamation and reward sensitivity.pdf)
+
+* Lieberman, M.D., Straccia, M.A., Meyer, M.L., Du, M., & **Tan, K.M.** (2019). Social, Self, (Situational), and Affective Processes in Medial Prefrontal Cortex (MPFC): Causal, Multivariate, and Reverse Inference Evidence. *Neuroscience & Biobehavioral Reviews*. https://doi.org/10.1016/j.neubiorev.2018.12.021 [[PDF]](http://www.scn.ucla.edu/pdf/Lieberman(2019)NBR.pdf)
+
+## Pre-print Manuscripts
+**Tan, K.M.**, Burklund, L.J., Craske, M.G., & Lieberman, M.D. (2019). Posttraumatic Stress Disorder and the Social Brain: Affect-Related Disruption of the Default and Mirror Networks. *BioRxiv*, 527176. https://doi.org/10.1101/527176 [[PDF]](https://doi.org/10.1101/527176)
 
 ## Conference Presentations
 
-* **K.M. Tan**, L.J. Burklund, M.G. Craske, M.D. Lieberman. (2018, May). *PTSD and the social brain: affect-related disruption of the default and mirror networks*. Social and Affective Neuroscience Society, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/Tan_PTSD_SANS2018.pdf)
+* **Tan, K.M.**, Daitch, A.L, Fox, K.C.R., Parvizi, J. (2019, May). Intracranial Electrophysiology of Mentalizing. *Social and Affective Neuroscience Society*, Miami Beach, USA. [[Talk Slides]] [[Poster PDF]]
 
-* **K.M. Tan**, M.J. Tarr. (2016, April). *Valence-related visual encoding is dependent on valence strength prior to frontal affective processing*. Social and Affective Neuroscience Society, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/KevinTan_SANS2016_ObjectValence.pdf)
+* **Tan, K.M.**, Burklund, L.J., Craske, M.G., Lieberman, M.D. (2018, May). PTSD and the social brain: affect-related disruption of the default and mirror networks. *Social and Affective Neuroscience Society*, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/KTan_PTSD_SANSposter_v2.pdf.pdf)
 
-* **K.M. Tan**, G.J. Siegle, T. Kraynak. (2014, May). *Toward a pathophysiology of rumination: dorsal nexus resting-state functional connectivity in depression before and after serotonergic or behavioral interventions*. Meeting of the Minds conference, Carnegie Mellon University, USA. [[Poster PDF]](https://kevmtan.github.io/files/Kevin_DN_MeetingoftheMinds_Poster.pdf)
+* **Tan, K.M.**, Tarr, M.J.. (2016, April). Valence-related visual encoding is dependent on valence strength prior to frontal affective processing. *Social and Affective Neuroscience Society*, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/KevinTan_SANS2016_ObjectValence.pdf)
 
-## Working Manuscripts
+* **Tan, K.M.**, Karynak, T., Siegle, G.J. (2014, May). *Toward a pathophysiology of rumination: dorsal nexus resting-state functional connectivity in depression before and after serotonergic or behavioral interventions*. Meeting of the Minds conference, Carnegie Mellon University, USA. [[Poster PDF]](https://kevmtan.github.io/files/Kevin_DN_MeetingoftheMinds_Poster.pdf)
 
-* M. Moieni, **K.M. Tan**, T.K. Inagaki, K.A. Muscatell, J.M. Dutcher, Ivana Jevtic, E.C. Breen, M.R. Irwin, N.I. Eisenberger. (under review). Sex differences in the relationship between inflammation and reward sensitivity: A randomized controlled trial of endotoxin. *Biological Psychiatry*
+<!-- ## Working Manuscripts
 
-* **K.M. Tan**, L.J. Burklund, M.G. Craske, M.D. Lieberman. (in prep). PTSD and the social brain: affect-related disruption of the default and mirror networks during social inference
-
-* **K.M. Tan**, M.J. Tarr. (in prep). Bottom-up or top-down? The spatiotemporal dynamics of affective object perception differ across valence strength.
+* **Tan, K.M.**, Tarr, M.J. (in prep). Bottom-up or top-down? The spatiotemporal dynamics of affective object perception differ across valence strength.
 
 * B.A. Tabak, P. Katzman, **K.M. Tan**, M.A. Straccia, M. Parrish, C. Leshak, M.D. Lieberman. (in prep). Effects of oxytocin and vasopressin on the neural circuitry of social cognition.
 
-* **K.M. Tan**, A.L. Daitch, K.C.R. Fox, Josef Parvizi, M.D. Lieberman. (in early prep). Mentalizing about the self and others: a human intracranial electrophysiology study. 
+* **K.M. Tan**, A.L. Daitch, K.C.R. Fox, Josef Parvizi, M.D. Lieberman. (in early prep). Mentalizing about the self and others: a human intracranial electrophysiology study.  -->
 
 
 <!-- {% if author.googlescholar %}
@@ -36,4 +41,4 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
- -->
+ --

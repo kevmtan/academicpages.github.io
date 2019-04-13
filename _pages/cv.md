@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-# [Download CV](https://kevmtan.github.io/files/KevinTan_CV_171107.pdf)
+# [Download CV](https://kevmtan.github.io/files/KevinTan_CV_190130.pdf)
 
-<object data="https://kevmtan.github.io/files/KevinTan_CV_171107.pdf" type="application/pdf" style="width:100%; height:100%"></object>
+<object data="https://kevmtan.github.io/files/KevinTan_CV_190130.pdf" type="application/pdf" style="width:100%; height:100%"></object>
 
 <!-- {% include base_path %}
 
