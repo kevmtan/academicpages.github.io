@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**NOTE:** my [Google Scholar profile](https://scholar.google.com/citations?user=1kC4VtgAAAAJ) could have a more recent list of publications
+My [Google Scholar profile](https://scholar.google.com/citations?user=1kC4VtgAAAAJ) could have a more recent list of publications
 
 ## Peer-reviewed Publications
 * Moieni, M., **Tan, K.M.**, Inagaki, T.K., Muscatell, K.A., Dutcher, J.M., Jevtic, I., Breen, E.C., Irwin, M.R., Eisenberger, N.I. (2019). Sex differences in the relationship between inflammation and reward sensitivity: A randomized controlled trial of endotoxin. *Biological Psychiatry: Cognitive Neuroscience and Neuroimaging*, 0(0). https://doi.org/10.1016/j.bpsc.2019.03.010 [[PDF]](https://kevmtan.github.io/files/[2019] Moieni et al. - Sex differences in inflamation and reward sensitivity.pdf)
