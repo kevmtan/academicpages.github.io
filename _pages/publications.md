@@ -33,4 +33,4 @@ My [Google Scholar profile](https://scholar.google.com/citations?user=1kC4VtgAAA
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
- --
+ -->
