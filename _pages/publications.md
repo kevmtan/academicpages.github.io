@@ -15,13 +15,13 @@ A more recent list of publications might be found on my [Google Scholar profile]
 
 ## Conference Presentations
 
-* **Tan, K.M.**, Daitch, A.L, Fox, K.C.R., Parvizi, J., Lieberman, M.D. (2019, May). Intracranial Electrophysiology of Mentalizing. *Social and Affective Neuroscience Society*, Miami Beach, USA. [Talk Slides PDF] [Poster PDF]
+* **Tan, K.M.**, Daitch, A.L, Fox, K.C.R., Parvizi, J., Lieberman, M.D. (2019, May). *Intracranial Electrophysiology of Mentalizing*. Talk and poster presented for the Social and Affective Neuroscience Society, Miami Beach, USA. [Talk Slides PDF] [[Poster PDF]](https://kevmtan.github.io/files/KTan_iEEGmentalizing_poster_SANS2019.pdf)
 
-* **Tan, K.M.**, Burklund, L.J., Craske, M.G., Lieberman, M.D. (2018, May). PTSD and the social brain: affect-related disruption of the default and mirror networks. *Social and Affective Neuroscience Society*, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/KTan_PTSD_SANSposter_v2.pdf.pdf)
+* **Tan, K.M.**, Burklund, L.J., Craske, M.G., Lieberman, M.D. (2018, May). *PTSD and the social brain: affect-related disruption of the default and mirror networks*. Poster presented for the Social and Affective Neuroscience Society, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/KTan_PTSD_SANSposter_v2.pdf)
 
-* **Tan, K.M.**, Tarr, M.J.. (2016, April). Valence-related visual encoding is dependent on valence strength prior to frontal affective processing. *Social and Affective Neuroscience Society*, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/KevinTan_SANS2016_ObjectValence.pdf)
+* **Tan, K.M.**, Tarr, M.J.. (2016, April). *Valence-related visual encoding is dependent on valence strength prior to frontal affective processing*. Poster presented for the Social and Affective Neuroscience Society, New York City, USA. [[Poster PDF]](https://kevmtan.github.io/files/KevinTan_SANS2016_ObjectValence.pdf)
 
-* **Tan, K.M.**, Karynak, T., Siegle, G.J. (2014, May). Toward a pathophysiology of rumination: dorsal nexus resting-state functional connectivity in depression before and after serotonergic or behavioral interventions. *Meeting of the Minds*, Carnegie Mellon University, USA. [[Poster PDF]](https://kevmtan.github.io/files/Kevin_DN_MeetingoftheMinds_Poster.pdf)
+* **Tan, K.M.**, Karynak, T., Siegle, G.J. (2014, May). *Toward a pathophysiology of rumination: dorsal nexus resting-state functional connectivity in depression before and after serotonergic or behavioral interventions*. Poster presented at the Meeting of the Minds, Carnegie Mellon University, USA. [[Poster PDF]](https://kevmtan.github.io/files/Kevin_DN_MeetingoftheMinds_Poster.pdf)
 
 
 <!-- {% if author.googlescholar %}
