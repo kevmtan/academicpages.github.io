@@ -13,7 +13,7 @@ A more recent list of publications might be found on my [Google Scholar profile]
 * Lieberman, M.D., Straccia, M.A., Meyer, M.L., Du, M., & **Tan, K.M.** (2019). Social, Self, (Situational), and Affective Processes in Medial Prefrontal Cortex (MPFC): Causal, Multivariate, and Reverse Inference Evidence. *Neuroscience & Biobehavioral Reviews*. https://doi.org/10.1016/j.neubiorev.2018.12.021 [[PDF]](http://www.scn.ucla.edu/pdf/Lieberman(2019)NBR.pdf)
 
 ## Pre-print Manuscripts
-* **Tan, K.M.**, Burklund, L.J., Craske, M.G., & Lieberman, M.D. (2019). Posttraumatic Stress Disorder and the Social Brain: Affect-Related Disruption of the Default and Mirror Networks. *BioRxiv*, 527176. https://doi.org/10.1101/527176 **Note: An updated manuscript has been published in *[Depression and Anxiety](https://doi.org/10.1002/da.22953)***
+* **Tan, K.M.**, Burklund, L.J., Craske, M.G., & Lieberman, M.D. (2019). Posttraumatic Stress Disorder and the Social Brain: Affect-Related Disruption of the Default and Mirror Networks. *BioRxiv*, 527176. https://doi.org/10.1101/527176 (**Note:** An updated manuscript has been published in *[Depression and Anxiety](https://doi.org/10.1002/da.22953)*)
 
 ## Conference Presentations
 
