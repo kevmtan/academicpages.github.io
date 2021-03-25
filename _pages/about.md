@@ -11,8 +11,12 @@ redirect_from:
 
 Welcome!
 
-I am a PhD student and NSF Research Fellow in the [Social Cognitive Neuroscience Lab](http://www.scn.ucla.edu) and [Computational Social Neuroscience Lab](http://csnlab.org) at UCLA. My research explores the neural bases of our social and emotional worlds, with emphasis on a set of brain regions called the [default network](https://en.wikipedia.org/wiki/Default_mode_network). To these ends, I use [ECoG](https://en.wikipedia.org/wiki/Electrocorticography), [EEG](https://en.wikipedia.org/wiki/Electroencephalography), and [fMRI](https://en.wikipedia.org/wiki/fMRI) in conjunction with machine learning and statistical analyses.
+I am a PhD student and NSF Research Fellow in the [Social Cognitive Neuroscience Lab](http://www.scn.ucla.edu) and [Computational Social Neuroscience Lab](http://csnlab.org) at UCLA. 
+
+My research explores the neural bases of our social and emotional worlds, with emphasis on a set of brain regions called the [default network](https://en.wikipedia.org/wiki/Default_mode_network). To these ends, I use [intracranial electrophysiology](https://en.wikipedia.org/wiki/Electrocorticography), source-space [EEG](https://en.wikipedia.org/wiki/Electroencephalography), and [fMRI](https://en.wikipedia.org/wiki/fMRI).
+
+Previously, I have worked the labs of [Michael Tarr](http://tarrlab.org) and [Greg Siegle](http://www.wpic.pitt.edu/research/pican/).
 
 Outside of science, I am passionate about socioeconomic issues, and participate in groups such as [Black Lives Matter](https://blacklivesmatter.com/) and the [Democratic Socialists of America](http://www.dsausa.org/). I am also involved in the underground dance music scene in [Los Angeles](https://www.kcet.org/shows/real-scenes/episodes/los-angeles), and previously in [Pittsburgh](http://www.electronicbeats.net/hot-mass-pittsburgh) and [Minneapolis](https://blog.thecurrent.org/2016/11/is-minneapolis-techno-having-a-renaissance).
 
-Last updated: 19 September 2019
+Last updated: March 2021

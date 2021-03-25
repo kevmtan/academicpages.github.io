@@ -3,7 +3,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-A more recent list of publications might be found on my [Google Scholar profile](https://scholar.google.com/citations?user=1kC4VtgAAAAJ) or [ORCID](https://orcid.org/0000-0003-4299-996X) 
+A more recent list of publications might be found on my [Google Scholar](https://scholar.google.com/citations?user=1kC4VtgAAAAJ) and [ORCID](https://orcid.org/0000-0003-4299-996X) profiles.
 
 ## Peer-reviewed Publications
 * **Tan, K.M.**, Burklund, L.J., Craske, M.G., & Lieberman, M.D. (2019). Posttraumatic Stress Disorder and the Social Brain: Affect-Related Disruption of the Default and Mirror Networks. *Depression and Anxiety* 36(11), 1058-1071. https://doi.org/10.1002/da.22953 [[PDF]](https://kevmtan.github.io/files/[2019] Tan et al. - PTSD and the social brain.pdf)
