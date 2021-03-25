@@ -25,3 +25,17 @@ To explore my research interests, I use [ECoG](https://en.wikipedia.org/wiki/Ele
 I am particularly keen on using decoded neurofeedback to manipulate social and affective processes. I am also interested in using causal modeling, especially on ECoG and source-space M/EEG data, to characterize causality and information flow during social cognitive and affective computations. 
 
 Code I've written for some of the above methods can be found on my [Github](https://github.com/kevmtan).
+
+Collaborators
+----
+I work closely with [Josef Parvizi](https://med.stanford.edu/parvizi-lab.html)'s lab on human intracranial electrophysiology projects. 
+
+I've also worked with [Meghan Meyer](http://www.dartmouth-socialneurolab.com)'s lab on default network research using fMRI. 
+
+Previous Experience
+---
+I worked in [Michael Tarr](http://tarrlab.org)'s lab doing visual neuroscience research using EEG and fMRI. 
+
+I also worked in [Greg Siegle](http://www.wpic.pitt.edu/research/pican/)'s lab doing affective & clinical neuroscience research using fMRI.
+
+My first research experience was in [Marilyn Carroll](http://www.neuroscience.umn.edu/people/marilyn-e-carroll-phd)'s lab doing neuropsychopharmacology research on macaques and rats. 
