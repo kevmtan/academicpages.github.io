@@ -18,7 +18,7 @@ My research explores the neurocognitive bases of our social and emotional worlds
 Outside of science, I am passionate about socioeconomic issues, and participate in groups such as [Black Lives Matter](https://blacklivesmatter.com/) and the [Democratic Socialists of America](http://www.dsausa.org/). I am also involved in the underground dance music scene in [Los Angeles](https://www.kcet.org/shows/real-scenes/episodes/los-angeles), and previously in [Pittsburgh](http://www.electronicbeats.net/hot-mass-pittsburgh) and [Minneapolis](https://blog.thecurrent.org/2016/11/is-minneapolis-techno-having-a-renaissance).
 
 
-### Latest News:
+## News
 
 **March 7, 2021:** Spectrum News [writes about](https://www.spectrumnews.org/news/community-newsletter-theory-of-mind-using-historical-control-data-for-animal-research/) our recent preprint *Human electrocorticography reveals a common neurocognitive pathway for mentalizing about the self and others*
 
